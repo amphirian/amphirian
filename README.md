@@ -1,4 +1,4 @@
-Hi! I'm amphirian but some call me amphy!
+Hi! I'm amphirian but some call me amphy!\n
 This github will be a consolidation of all the projects I have made and am planning to make.
 If you have any suggestions or improvements for my projects do drop me a message! (You can find my contact details in my profile section)
 
